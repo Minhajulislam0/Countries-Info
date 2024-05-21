@@ -4,3 +4,10 @@
   gap: 10px;
   margin-top: 2rem;
 }
+
+.visited {
+  background-color: rgb(80, 86, 244);
+  color: white;
+  padding: 0.5rem;
+  border-radius: 5px;
+}
